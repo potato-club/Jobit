@@ -1,4 +1,3 @@
 package potato.jobit.service;
 
-public interface UserService {
-}
+public interface UserService {}

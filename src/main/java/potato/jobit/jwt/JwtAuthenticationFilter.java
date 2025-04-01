@@ -1,4 +1,3 @@
 package potato.jobit.jwt;
 
-public class JwtAuthenticationFilter {
-}
+public class JwtAuthenticationFilter {}
